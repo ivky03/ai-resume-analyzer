@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-st.title("🤖 AI Resume Analyzer & Learning Path Recommender")
+st.title("🤖 ResumeGPT: Smart Job Matcher + Skill Gap Coach")
 
 # Upload resume
 uploaded_file = st.file_uploader("Upload your resume (PDF)", type="pdf")
