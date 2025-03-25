@@ -12,7 +12,7 @@ An end-to-end AI-powered tool that analyzes resumes, matches them with relevant 
 
 ### 🚀 Live Demo
 
-👉 [Try it on Streamlit Cloud](https://your-app-name.streamlit.app)
+👉 [Try it on Streamlit Cloud](https://resumegpt-job-matcher-skill-gap-coach.streamlit.app/)
 
 ---
 
