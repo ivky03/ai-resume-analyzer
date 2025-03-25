@@ -1,0 +1,1822 @@
+[
+  {
+    "job_id":1,
+    "title":"Software Engineer",
+    "description":"Develop software"
+  },
+  {
+    "job_id":2,
+    "title":"Data Analyst",
+    "description":"Analyze data"
+  },
+  {
+    "job_id":3,
+    "title":"Network Engineer",
+    "description":"Maintain networks"
+  },
+  {
+    "job_id":4,
+    "title":"Cloud Architect",
+    "description":"Design cloud"
+  },
+  {
+    "job_id":5,
+    "title":"Cybersecurity Analyst",
+    "description":"Protect data"
+  },
+  {
+    "job_id":6,
+    "title":"IT Project Manager",
+    "description":"Manage projects"
+  },
+  {
+    "job_id":7,
+    "title":"Data Scientist",
+    "description":"Analyze big data"
+  },
+  {
+    "job_id":8,
+    "title":"DevOps Engineer",
+    "description":"Streamline devops"
+  },
+  {
+    "job_id":9,
+    "title":"IT Support Analyst",
+    "description":"Provide IT support"
+  },
+  {
+    "job_id":10,
+    "title":"UX\/UI Designer",
+    "description":"Design user interfaces"
+  },
+  {
+    "job_id":11,
+    "title":"Database Analyst",
+    "description":"Manage databases"
+  },
+  {
+    "job_id":12,
+    "title":"UI Developer",
+    "description":"Design user interfaces"
+  },
+  {
+    "job_id":13,
+    "title":"System Administrator",
+    "description":"Maintain systems"
+  },
+  {
+    "job_id":14,
+    "title":"AI\/ML Engineer",
+    "description":"Develop AI models"
+  },
+  {
+    "job_id":15,
+    "title":"IT Auditor",
+    "description":"Audit IT systems"
+  },
+  {
+    "job_id":16,
+    "title":"Network Security Engineer",
+    "description":"Secure networks"
+  },
+  {
+    "job_id":17,
+    "title":"Software Tester",
+    "description":"Test software"
+  },
+  {
+    "job_id":18,
+    "title":"Cloud Solutions Architect",
+    "description":"Design cloud solutions"
+  },
+  {
+    "job_id":19,
+    "title":"IT Consultant",
+    "description":"Provide IT consultancy"
+  },
+  {
+    "job_id":20,
+    "title":"Front-end Developer",
+    "description":"Develop web interfaces"
+  },
+  {
+    "job_id":21,
+    "title":"Business Analyst",
+    "description":"Analyze business needs"
+  },
+  {
+    "job_id":22,
+    "title":"IT Helpdesk Support",
+    "description":"Provide IT support"
+  },
+  {
+    "job_id":23,
+    "title":"DevSecOps Engineer",
+    "description":"Secure DevOps pipeline"
+  },
+  {
+    "job_id":24,
+    "title":"Data Engineer",
+    "description":"Build data pipelines"
+  },
+  {
+    "job_id":25,
+    "title":"IT Trainer",
+    "description":"Train IT professionals"
+  },
+  {
+    "job_id":26,
+    "title":"Cloud Security Engineer",
+    "description":"Secure cloud"
+  },
+  {
+    "job_id":27,
+    "title":"IT Procurement Specialist",
+    "description":"Procure IT resources"
+  },
+  {
+    "job_id":28,
+    "title":"UX Researcher",
+    "description":"Conduct UX research"
+  },
+  {
+    "job_id":29,
+    "title":"Blockchain Developer",
+    "description":"Develop blockchain"
+  },
+  {
+    "job_id":30,
+    "title":"IT Risk Analyst",
+    "description":"Analyze IT risks"
+  },
+  {
+    "job_id":31,
+    "title":"Cloud Support Engineer",
+    "description":"Support cloud"
+  },
+  {
+    "job_id":32,
+    "title":"IT Sales Manager",
+    "description":"Manage IT sales team"
+  },
+  {
+    "job_id":33,
+    "title":"Data Privacy Officer",
+    "description":"Ensure data privacy"
+  },
+  {
+    "job_id":34,
+    "title":"Software Architect",
+    "description":"Design software"
+  },
+  {
+    "job_id":35,
+    "title":"IT Quality Analyst",
+    "description":"Ensure software quality"
+  },
+  {
+    "job_id":36,
+    "title":"Mobile App Developer",
+    "description":"Develop mobile apps"
+  },
+  {
+    "job_id":37,
+    "title":"IT Procurement Manager",
+    "description":"Manage procurement"
+  },
+  {
+    "job_id":38,
+    "title":"IT Compliance Officer",
+    "description":"Ensure IT compliance"
+  },
+  {
+    "job_id":39,
+    "title":"Full-stack Developer",
+    "description":"Develop full-stack apps"
+  },
+  {
+    "job_id":40,
+    "title":"IT Business Analyst",
+    "description":"Analyze IT needs"
+  },
+  {
+    "job_id":41,
+    "title":"IT Trainer Assistant",
+    "description":"Assist IT training"
+  },
+  {
+    "job_id":42,
+    "title":"AI Ethics Consultant",
+    "description":"Ensure AI ethics"
+  },
+  {
+    "job_id":43,
+    "title":"IT Support Specialist",
+    "description":"Provide IT support"
+  },
+  {
+    "job_id":44,
+    "title":"Data Analytics Manager",
+    "description":"Manage data analytics"
+  },
+  {
+    "job_id":45,
+    "title":"IT Project Coordinator",
+    "description":"Coordinate IT projects"
+  },
+  {
+    "job_id":46,
+    "title":"Cloud Solutions Analyst",
+    "description":"Analyze cloud solutions"
+  },
+  {
+    "job_id":47,
+    "title":"IT Governance Manager",
+    "description":"Manage IT governance"
+  },
+  {
+    "job_id":48,
+    "title":"Cybersecurity Engineer",
+    "description":"Secure IT systems"
+  },
+  {
+    "job_id":49,
+    "title":"IT Procurement Analyst",
+    "description":"Analyze IT procurement"
+  },
+  {
+    "job_id":50,
+    "title":"UX Designer",
+    "description":"Design user experiences"
+  },
+  {
+    "job_id":51,
+    "title":"IT Change Manager",
+    "description":"Manage IT changes"
+  },
+  {
+    "job_id":52,
+    "title":"IT Service Desk Analyst",
+    "description":"Provide service desk support"
+  },
+  {
+    "job_id":53,
+    "title":"Cloud Security Analyst",
+    "description":"Analyze cloud security"
+  },
+  {
+    "job_id":54,
+    "title":"IT Business Continuity Manager",
+    "description":"Ensure business continuity"
+  },
+  {
+    "job_id":55,
+    "title":"QA Automation Engineer",
+    "description":"Automate software testing"
+  },
+  {
+    "job_id":56,
+    "title":"Data Governance Analyst",
+    "description":"Manage data governance"
+  },
+  {
+    "job_id":57,
+    "title":"IT Trainer Specialist",
+    "description":"Specialize in IT training"
+  },
+  {
+    "job_id":58,
+    "title":"Machine Learning Engineer",
+    "description":"Develop ML models"
+  },
+  {
+    "job_id":59,
+    "title":"IT Asset Manager",
+    "description":"Manage IT assets"
+  },
+  {
+    "job_id":60,
+    "title":"IT Security Consultant",
+    "description":"Provide security consultancy"
+  },
+  {
+    "job_id":61,
+    "title":"Data Analyst Intern",
+    "description":"Analyze data as an intern"
+  },
+  {
+    "job_id":62,
+    "title":"IT Sales Representative",
+    "description":"Sell IT solutions"
+  },
+  {
+    "job_id":63,
+    "title":"Cloud Migration Specialist",
+    "description":"Migrate to the cloud"
+  },
+  {
+    "job_id":64,
+    "title":"IT Procurement Coordinator",
+    "description":"Coordinate IT procurement"
+  },
+  {
+    "job_id":65,
+    "title":"IT Analyst Trainee",
+    "description":"Train as an IT analyst"
+  },
+  {
+    "job_id":66,
+    "title":"UX Research Assistant",
+    "description":"Assist in UX research"
+  },
+  {
+    "job_id":67,
+    "title":"IT Compliance Specialist",
+    "description":"Ensure IT compliance"
+  },
+  {
+    "job_id":68,
+    "title":"Software Development Intern",
+    "description":"Intern in software dev"
+  },
+  {
+    "job_id":69,
+    "title":"Network Administrator Trainee",
+    "description":"Train as network admin"
+  },
+  {
+    "job_id":70,
+    "title":"Cloud Solutions Intern",
+    "description":"Intern in cloud solutions"
+  },
+  {
+    "job_id":71,
+    "title":"Data Engineer",
+    "description":"Build data pipelines"
+  },
+  {
+    "job_id":72,
+    "title":"Software Developer",
+    "description":"Develop software"
+  },
+  {
+    "job_id":73,
+    "title":"IT Analyst",
+    "description":"Analyze IT systems"
+  },
+  {
+    "job_id":74,
+    "title":"Cloud Solutions Architect",
+    "description":"Design cloud solutions"
+  },
+  {
+    "job_id":75,
+    "title":"Cybersecurity Analyst",
+    "description":"Protect data"
+  },
+  {
+    "job_id":76,
+    "title":"IT Project Manager",
+    "description":"Manage projects"
+  },
+  {
+    "job_id":77,
+    "title":"Data Scientist",
+    "description":"Analyze big data"
+  },
+  {
+    "job_id":78,
+    "title":"DevOps Engineer",
+    "description":"Streamline devops"
+  },
+  {
+    "job_id":79,
+    "title":"IT Support Analyst",
+    "description":"Provide IT support"
+  },
+  {
+    "job_id":80,
+    "title":"UX\/UI Designer",
+    "description":"Design user interfaces"
+  },
+  {
+    "job_id":81,
+    "title":"Database Analyst",
+    "description":"Manage databases"
+  },
+  {
+    "job_id":82,
+    "title":"UI Developer",
+    "description":"Design web interfaces"
+  },
+  {
+    "job_id":83,
+    "title":"System Administrator",
+    "description":"Maintain systems"
+  },
+  {
+    "job_id":84,
+    "title":"AI\/ML Engineer",
+    "description":"Develop AI models"
+  },
+  {
+    "job_id":85,
+    "title":"IT Auditor",
+    "description":"Audit IT systems"
+  },
+  {
+    "job_id":86,
+    "title":"Network Security Engineer",
+    "description":"Secure networks"
+  },
+  {
+    "job_id":87,
+    "title":"Software Tester",
+    "description":"Test software"
+  },
+  {
+    "job_id":88,
+    "title":"Cloud Solutions Architect",
+    "description":"Design cloud solutions"
+  },
+  {
+    "job_id":89,
+    "title":"IT Consultant",
+    "description":"Provide IT consultancy"
+  },
+  {
+    "job_id":90,
+    "title":"Front-end Developer",
+    "description":"Develop web interfaces"
+  },
+  {
+    "job_id":91,
+    "title":"Business Analyst",
+    "description":"Analyze business needs"
+  },
+  {
+    "job_id":92,
+    "title":"IT Helpdesk Support",
+    "description":"Provide IT support"
+  },
+  {
+    "job_id":93,
+    "title":"DevSecOps Engineer",
+    "description":"Secure DevOps pipeline"
+  },
+  {
+    "job_id":94,
+    "title":"Data Engineer",
+    "description":"Build data pipelines"
+  },
+  {
+    "job_id":95,
+    "title":"IT Trainer",
+    "description":"Train IT professionals"
+  },
+  {
+    "job_id":96,
+    "title":"Cloud Security Engineer",
+    "description":"Secure cloud"
+  },
+  {
+    "job_id":97,
+    "title":"IT Procurement Specialist",
+    "description":"Procure IT resources"
+  },
+  {
+    "job_id":98,
+    "title":"UX Researcher",
+    "description":"Conduct UX research"
+  },
+  {
+    "job_id":99,
+    "title":"Blockchain Developer",
+    "description":"Develop blockchain"
+  },
+  {
+    "job_id":100,
+    "title":"IT Risk Analyst",
+    "description":"Analyze IT risks"
+  },
+  {
+    "job_id":101,
+    "title":"Cloud Support Engineer",
+    "description":"Support cloud"
+  },
+  {
+    "job_id":102,
+    "title":"IT Sales Manager",
+    "description":"Manage IT sales team"
+  },
+  {
+    "job_id":103,
+    "title":"Data Privacy Officer",
+    "description":"Ensure data privacy"
+  },
+  {
+    "job_id":104,
+    "title":"Software Architect",
+    "description":"Design software"
+  },
+  {
+    "job_id":105,
+    "title":"IT Quality Analyst",
+    "description":"Ensure software quality"
+  },
+  {
+    "job_id":106,
+    "title":"Mobile App Developer",
+    "description":"Develop mobile apps"
+  },
+  {
+    "job_id":107,
+    "title":"IT Procurement Manager",
+    "description":"Manage procurement"
+  },
+  {
+    "job_id":108,
+    "title":"IT Compliance Officer",
+    "description":"Ensure IT compliance"
+  },
+  {
+    "job_id":109,
+    "title":"Full-stack Developer",
+    "description":"Develop full-stack apps"
+  },
+  {
+    "job_id":110,
+    "title":"IT Business Analyst",
+    "description":"Analyze IT needs"
+  },
+  {
+    "job_id":111,
+    "title":"IT Trainer Assistant",
+    "description":"Assist IT training"
+  },
+  {
+    "job_id":112,
+    "title":"AI Ethics Consultant",
+    "description":"Ensure AI ethics"
+  },
+  {
+    "job_id":113,
+    "title":"IT Support Specialist",
+    "description":"Provide IT support"
+  },
+  {
+    "job_id":114,
+    "title":"Data Analytics Manager",
+    "description":"Manage data analytics"
+  },
+  {
+    "job_id":115,
+    "title":"IT Project Coordinator",
+    "description":"Coordinate IT projects"
+  },
+  {
+    "job_id":116,
+    "title":"Cloud Solutions Analyst",
+    "description":"Analyze cloud solutions"
+  },
+  {
+    "job_id":117,
+    "title":"IT Governance Manager",
+    "description":"Manage IT governance"
+  },
+  {
+    "job_id":118,
+    "title":"Cybersecurity Engineer",
+    "description":"Secure IT systems"
+  },
+  {
+    "job_id":119,
+    "title":"IT Procurement Analyst",
+    "description":"Analyze IT procurement"
+  },
+  {
+    "job_id":120,
+    "title":"UX Designer",
+    "description":"Design user experiences"
+  },
+  {
+    "job_id":121,
+    "title":"Software Engineer",
+    "description":"Develop software"
+  },
+  {
+    "job_id":122,
+    "title":"Data Analyst",
+    "description":"Analyze data"
+  },
+  {
+    "job_id":123,
+    "title":"Network Engineer",
+    "description":"Manage networks"
+  },
+  {
+    "job_id":124,
+    "title":"Cloud Architect",
+    "description":"Design cloud solutions"
+  },
+  {
+    "job_id":125,
+    "title":"Cybersecurity Analyst",
+    "description":"Secure IT systems"
+  },
+  {
+    "job_id":126,
+    "title":"IT Project Manager",
+    "description":"Manage projects"
+  },
+  {
+    "job_id":127,
+    "title":"Data Scientist",
+    "description":"Analyze big data"
+  },
+  {
+    "job_id":128,
+    "title":"DevOps Engineer",
+    "description":"Streamline devops"
+  },
+  {
+    "job_id":129,
+    "title":"IT Support Analyst",
+    "description":"Provide IT support"
+  },
+  {
+    "job_id":130,
+    "title":"UX\/UI Designer",
+    "description":"Design user interfaces"
+  },
+  {
+    "job_id":131,
+    "title":"Database Analyst",
+    "description":"Manage databases"
+  },
+  {
+    "job_id":132,
+    "title":"UI Developer",
+    "description":"Design web interfaces"
+  },
+  {
+    "job_id":133,
+    "title":"System Administrator",
+    "description":"Maintain systems"
+  },
+  {
+    "job_id":134,
+    "title":"AI\/ML Engineer",
+    "description":"Develop AI models"
+  },
+  {
+    "job_id":135,
+    "title":"IT Auditor",
+    "description":"Audit IT systems"
+  },
+  {
+    "job_id":136,
+    "title":"Network Security Engineer",
+    "description":"Secure networks"
+  },
+  {
+    "job_id":137,
+    "title":"Software Tester",
+    "description":"Test software"
+  },
+  {
+    "job_id":138,
+    "title":"Cloud Solutions Architect",
+    "description":"Design cloud solutions"
+  },
+  {
+    "job_id":139,
+    "title":"IT Consultant",
+    "description":"Provide IT consultancy"
+  },
+  {
+    "job_id":140,
+    "title":"Front-end Developer",
+    "description":"Develop web interfaces"
+  },
+  {
+    "job_id":141,
+    "title":"Business Analyst",
+    "description":"Analyze business needs"
+  },
+  {
+    "job_id":142,
+    "title":"IT Helpdesk Support",
+    "description":"Provide IT support"
+  },
+  {
+    "job_id":143,
+    "title":"DevSecOps Engineer",
+    "description":"Secure DevOps pipeline"
+  },
+  {
+    "job_id":144,
+    "title":"Data Engineer",
+    "description":"Build data pipelines"
+  },
+  {
+    "job_id":145,
+    "title":"IT Trainer",
+    "description":"Train IT professionals"
+  },
+  {
+    "job_id":146,
+    "title":"Cloud Security Engineer",
+    "description":"Secure cloud"
+  },
+  {
+    "job_id":147,
+    "title":"IT Procurement Specialist",
+    "description":"Procure IT resources"
+  },
+  {
+    "job_id":148,
+    "title":"UX Researcher",
+    "description":"Conduct UX research"
+  },
+  {
+    "job_id":149,
+    "title":"Blockchain Developer",
+    "description":"Develop blockchain"
+  },
+  {
+    "job_id":150,
+    "title":"IT Risk Analyst",
+    "description":"Analyze IT risks"
+  },
+  {
+    "job_id":151,
+    "title":"Cloud Support Engineer",
+    "description":"Support cloud"
+  },
+  {
+    "job_id":152,
+    "title":"IT Sales Manager",
+    "description":"Manage IT sales team"
+  },
+  {
+    "job_id":153,
+    "title":"Data Privacy Officer",
+    "description":"Ensure data privacy"
+  },
+  {
+    "job_id":154,
+    "title":"Software Architect",
+    "description":"Design software"
+  },
+  {
+    "job_id":155,
+    "title":"IT Quality Analyst",
+    "description":"Ensure software quality"
+  },
+  {
+    "job_id":156,
+    "title":"Mobile App Developer",
+    "description":"Develop mobile apps"
+  },
+  {
+    "job_id":157,
+    "title":"IT Procurement Manager",
+    "description":"Manage procurement"
+  },
+  {
+    "job_id":158,
+    "title":"IT Compliance Officer",
+    "description":"Ensure IT compliance"
+  },
+  {
+    "job_id":159,
+    "title":"Full-stack Developer",
+    "description":"Develop full-stack apps"
+  },
+  {
+    "job_id":160,
+    "title":"IT Business Analyst",
+    "description":"Analyze IT needs"
+  },
+  {
+    "job_id":161,
+    "title":"IT Trainer Assistant",
+    "description":"Assist IT training"
+  },
+  {
+    "job_id":162,
+    "title":"AI Ethics Consultant",
+    "description":"Ensure AI ethics"
+  },
+  {
+    "job_id":163,
+    "title":"IT Support Specialist",
+    "description":"Provide IT support"
+  },
+  {
+    "job_id":164,
+    "title":"Data Analytics Manager",
+    "description":"Manage data analytics"
+  },
+  {
+    "job_id":165,
+    "title":"IT Project Coordinator",
+    "description":"Coordinate IT projects"
+  },
+  {
+    "job_id":166,
+    "title":"Cloud Solutions Analyst",
+    "description":"Analyze cloud solutions"
+  },
+  {
+    "job_id":167,
+    "title":"IT Governance Manager",
+    "description":"Manage IT governance"
+  },
+  {
+    "job_id":168,
+    "title":"Cybersecurity Engineer",
+    "description":"Secure IT systems"
+  },
+  {
+    "job_id":169,
+    "title":"IT Procurement Analyst",
+    "description":"Analyze IT procurement"
+  },
+  {
+    "job_id":170,
+    "title":"UX Designer",
+    "description":"Design user experiences"
+  },
+  {
+    "job_id":171,
+    "title":"Software Developer",
+    "description":"Develop web applications"
+  },
+  {
+    "job_id":172,
+    "title":"Data Analyst",
+    "description":"Analyze data trends"
+  },
+  {
+    "job_id":173,
+    "title":"Network Engineer",
+    "description":"Manage network infrastructure"
+  },
+  {
+    "job_id":174,
+    "title":"Cloud Architect",
+    "description":"Design cloud solutions"
+  },
+  {
+    "job_id":175,
+    "title":"Cybersecurity Analyst",
+    "description":"Ensure IT security"
+  },
+  {
+    "job_id":176,
+    "title":"IT Project Manager",
+    "description":"Manage IT projects"
+  },
+  {
+    "job_id":177,
+    "title":"Data Scientist",
+    "description":"Analyze big data"
+  },
+  {
+    "job_id":178,
+    "title":"IT Support Specialist",
+    "description":"Provide IT support"
+  },
+  {
+    "job_id":179,
+    "title":"Full-stack Developer",
+    "description":"Develop web applications"
+  },
+  {
+    "job_id":180,
+    "title":"Data Analyst",
+    "description":"Analyze data trends"
+  },
+  {
+    "job_id":181,
+    "title":"Network Engineer",
+    "description":"Manage network infrastructure"
+  },
+  {
+    "job_id":182,
+    "title":"Cloud Architect",
+    "description":"Design cloud solutions"
+  },
+  {
+    "job_id":183,
+    "title":"Cybersecurity Analyst",
+    "description":"Ensure IT security"
+  },
+  {
+    "job_id":184,
+    "title":"IT Project Manager",
+    "description":"Manage IT projects"
+  },
+  {
+    "job_id":185,
+    "title":"Data Scientist",
+    "description":"Analyze big data"
+  },
+  {
+    "job_id":186,
+    "title":"Cloud Solutions Analyst",
+    "description":"Analyze cloud solutions"
+  },
+  {
+    "job_id":187,
+    "title":"IT Governance Manager",
+    "description":"Manage IT governance"
+  },
+  {
+    "job_id":188,
+    "title":"Software Developer",
+    "description":"Develop software"
+  },
+  {
+    "job_id":189,
+    "title":"IT Support Specialist",
+    "description":"Provide IT support"
+  },
+  {
+    "job_id":190,
+    "title":"Full-stack Developer",
+    "description":"Develop web applications"
+  },
+  {
+    "job_id":191,
+    "title":"Data Analyst",
+    "description":"Analyze data trends"
+  },
+  {
+    "job_id":192,
+    "title":"Network Engineer",
+    "description":"Manage network infrastructure"
+  },
+  {
+    "job_id":193,
+    "title":"Cloud Architect",
+    "description":"Design cloud solutions"
+  },
+  {
+    "job_id":194,
+    "title":"Cybersecurity Analyst",
+    "description":"Ensure IT security"
+  },
+  {
+    "job_id":195,
+    "title":"IT Project Manager",
+    "description":"Manage IT projects"
+  },
+  {
+    "job_id":196,
+    "title":"Data Scientist",
+    "description":"Analyze big data"
+  },
+  {
+    "job_id":197,
+    "title":"Cloud Solutions Analyst",
+    "description":"Analyze cloud solutions"
+  },
+  {
+    "job_id":198,
+    "title":"IT Governance Manager",
+    "description":"Manage IT governance"
+  },
+  {
+    "job_id":199,
+    "title":"Software Developer",
+    "description":"Develop software"
+  },
+  {
+    "job_id":200,
+    "title":"IT Support Specialist",
+    "description":"Provide IT support"
+  },
+  {
+    "job_id":201,
+    "title":"DevOps Engineer",
+    "description":"Streamline devops"
+  },
+  {
+    "job_id":202,
+    "title":"Database Administrator",
+    "description":"Manage databases"
+  },
+  {
+    "job_id":203,
+    "title":"UX Designer",
+    "description":"Design user experiences"
+  },
+  {
+    "job_id":204,
+    "title":"IT Consultant",
+    "description":"Provide IT consultancy"
+  },
+  {
+    "job_id":205,
+    "title":"Software Tester",
+    "description":"Test software"
+  },
+  {
+    "job_id":206,
+    "title":"IT Security Analyst",
+    "description":"Ensure IT security"
+  },
+  {
+    "job_id":207,
+    "title":"Data Engineer",
+    "description":"Build data pipelines"
+  },
+  {
+    "job_id":208,
+    "title":"Front-end Developer",
+    "description":"Develop web interfaces"
+  },
+  {
+    "job_id":209,
+    "title":"AI\/ML Engineer",
+    "description":"Develop AI models"
+  },
+  {
+    "job_id":210,
+    "title":"IT Auditor",
+    "description":"Audit IT systems"
+  },
+  {
+    "job_id":211,
+    "title":"IT Trainer",
+    "description":"Train IT professionals"
+  },
+  {
+    "job_id":212,
+    "title":"Cloud Security Engineer",
+    "description":"Secure cloud"
+  },
+  {
+    "job_id":213,
+    "title":"IT Procurement Specialist",
+    "description":"Procure IT resources"
+  },
+  {
+    "job_id":214,
+    "title":"UX Researcher",
+    "description":"Conduct UX research"
+  },
+  {
+    "job_id":215,
+    "title":"Blockchain Developer",
+    "description":"Develop blockchain"
+  },
+  {
+    "job_id":216,
+    "title":"IT Risk Analyst",
+    "description":"Analyze IT risks"
+  },
+  {
+    "job_id":217,
+    "title":"Cloud Support Engineer",
+    "description":"Support cloud"
+  },
+  {
+    "job_id":218,
+    "title":"IT Sales Manager",
+    "description":"Manage IT sales team"
+  },
+  {
+    "job_id":219,
+    "title":"Data Privacy Officer",
+    "description":"Ensure data privacy"
+  },
+  {
+    "job_id":220,
+    "title":"Software Architect",
+    "description":"Design software"
+  },
+  {
+    "job_id":221,
+    "title":"IT Quality Analyst",
+    "description":"Ensure software quality"
+  },
+  {
+    "job_id":222,
+    "title":"Mobile App Developer",
+    "description":"Develop mobile apps"
+  },
+  {
+    "job_id":223,
+    "title":"IT Procurement Manager",
+    "description":"Manage procurement"
+  },
+  {
+    "job_id":224,
+    "title":"IT Compliance Officer",
+    "description":"Ensure IT compliance"
+  },
+  {
+    "job_id":225,
+    "title":"Full-stack Developer",
+    "description":"Develop web applications"
+  },
+  {
+    "job_id":226,
+    "title":"IT Business Analyst",
+    "description":"Analyze IT needs"
+  },
+  {
+    "job_id":227,
+    "title":"IT Trainer",
+    "description":"Train IT professionals"
+  },
+  {
+    "job_id":228,
+    "title":"AI Ethics Consultant",
+    "description":"Ensure AI ethics"
+  },
+  {
+    "job_id":229,
+    "title":"IT Support Specialist",
+    "description":"Provide IT support"
+  },
+  {
+    "job_id":230,
+    "title":"Data Analytics Manager",
+    "description":"Manage data analytics"
+  },
+  {
+    "job_id":231,
+    "title":"IT Project Coordinator",
+    "description":"Coordinate IT projects"
+  },
+  {
+    "job_id":232,
+    "title":"Cloud Solutions Analyst",
+    "description":"Analyze cloud solutions"
+  },
+  {
+    "job_id":233,
+    "title":"IT Support Specialist",
+    "description":"Provide IT support"
+  },
+  {
+    "job_id":234,
+    "title":"Full-stack Developer",
+    "description":"Develop web applications"
+  },
+  {
+    "job_id":235,
+    "title":"Data Analyst",
+    "description":"Analyze data trends"
+  },
+  {
+    "job_id":236,
+    "title":"Network Engineer",
+    "description":"Manage network infrastructure"
+  },
+  {
+    "job_id":237,
+    "title":"Cloud Architect",
+    "description":"Design cloud solutions"
+  },
+  {
+    "job_id":238,
+    "title":"Cybersecurity Analyst",
+    "description":"Ensure IT security"
+  },
+  {
+    "job_id":239,
+    "title":"IT Project Manager",
+    "description":"Manage IT projects"
+  },
+  {
+    "job_id":240,
+    "title":"Data Scientist",
+    "description":"Analyze big data"
+  },
+  {
+    "job_id":241,
+    "title":"Cloud Solutions Analyst",
+    "description":"Analyze cloud solutions"
+  },
+  {
+    "job_id":242,
+    "title":"IT Governance Manager",
+    "description":"Manage IT governance"
+  },
+  {
+    "job_id":243,
+    "title":"Software Developer",
+    "description":"Develop software"
+  },
+  {
+    "job_id":244,
+    "title":"IT Support Specialist",
+    "description":"Provide IT support"
+  },
+  {
+    "job_id":245,
+    "title":"DevOps Engineer",
+    "description":"Streamline devops"
+  },
+  {
+    "job_id":246,
+    "title":"Database Administrator",
+    "description":"Manage databases"
+  },
+  {
+    "job_id":247,
+    "title":"UX Designer",
+    "description":"Design user experiences"
+  },
+  {
+    "job_id":248,
+    "title":"IT Consultant",
+    "description":"Provide IT consultancy"
+  },
+  {
+    "job_id":249,
+    "title":"Software Tester",
+    "description":"Test software"
+  },
+  {
+    "job_id":250,
+    "title":"IT Security Analyst",
+    "description":"Ensure IT security"
+  },
+  {
+    "job_id":251,
+    "title":"Data Engineer",
+    "description":"Build data pipelines"
+  },
+  {
+    "job_id":252,
+    "title":"Front-end Developer",
+    "description":"Develop web interfaces"
+  },
+  {
+    "job_id":253,
+    "title":"AI\/ML Engineer",
+    "description":"Develop AI models"
+  },
+  {
+    "job_id":254,
+    "title":"IT Auditor",
+    "description":"Audit IT systems"
+  },
+  {
+    "job_id":255,
+    "title":"IT Trainer",
+    "description":"Train IT professionals"
+  },
+  {
+    "job_id":256,
+    "title":"Cloud Security Engineer",
+    "description":"Secure cloud"
+  },
+  {
+    "job_id":257,
+    "title":"IT Procurement Specialist",
+    "description":"Procure IT resources"
+  },
+  {
+    "job_id":258,
+    "title":"UX Researcher",
+    "description":"Conduct UX research"
+  },
+  {
+    "job_id":259,
+    "title":"Blockchain Developer",
+    "description":"Develop blockchain"
+  },
+  {
+    "job_id":260,
+    "title":"IT Risk Analyst",
+    "description":"Analyze IT risks"
+  },
+  {
+    "job_id":261,
+    "title":"Cloud Support Engineer",
+    "description":"Support cloud"
+  },
+  {
+    "job_id":262,
+    "title":"IT Sales Manager",
+    "description":"Manage IT sales team"
+  },
+  {
+    "job_id":263,
+    "title":"Data Privacy Officer",
+    "description":"Ensure data privacy"
+  },
+  {
+    "job_id":264,
+    "title":"Software Architect",
+    "description":"Design software"
+  },
+  {
+    "job_id":265,
+    "title":"IT Quality Analyst",
+    "description":"Ensure software quality"
+  },
+  {
+    "job_id":266,
+    "title":"Mobile App Developer",
+    "description":"Develop mobile apps"
+  },
+  {
+    "job_id":267,
+    "title":"IT Procurement Manager",
+    "description":"Manage procurement"
+  },
+  {
+    "job_id":268,
+    "title":"IT Compliance Officer",
+    "description":"Ensure IT compliance"
+  },
+  {
+    "job_id":269,
+    "title":"Full-stack Developer",
+    "description":"Develop web applications"
+  },
+  {
+    "job_id":270,
+    "title":"IT Business Analyst",
+    "description":"Analyze IT needs"
+  },
+  {
+    "job_id":271,
+    "title":"IT Trainer",
+    "description":"Train IT professionals"
+  },
+  {
+    "job_id":272,
+    "title":"AI Ethics Consultant",
+    "description":"Ensure AI ethics"
+  },
+  {
+    "job_id":273,
+    "title":"IT Support Specialist",
+    "description":"Provide IT support"
+  },
+  {
+    "job_id":274,
+    "title":"Data Analytics Manager",
+    "description":"Manage data analytics"
+  },
+  {
+    "job_id":275,
+    "title":"IT Project Coordinator",
+    "description":"Coordinate IT projects"
+  },
+  {
+    "job_id":276,
+    "title":"Cloud Solutions Analyst",
+    "description":"Analyze cloud solutions"
+  },
+  {
+    "job_id":277,
+    "title":"IT Support Specialist",
+    "description":"Provide IT support"
+  },
+  {
+    "job_id":278,
+    "title":"Full-stack Developer",
+    "description":"Develop web applications"
+  },
+  {
+    "job_id":279,
+    "title":"Data Analyst",
+    "description":"Analyze data trends"
+  },
+  {
+    "job_id":280,
+    "title":"Network Engineer",
+    "description":"Manage network infrastructure"
+  },
+  {
+    "job_id":281,
+    "title":"Cloud Architect",
+    "description":"Design cloud solutions"
+  },
+  {
+    "job_id":282,
+    "title":"Cybersecurity Analyst",
+    "description":"Ensure IT security"
+  },
+  {
+    "job_id":283,
+    "title":"IT Project Manager",
+    "description":"Manage IT projects"
+  },
+  {
+    "job_id":284,
+    "title":"Data Scientist",
+    "description":"Analyze big data"
+  },
+  {
+    "job_id":285,
+    "title":"Cloud Solutions Analyst",
+    "description":"Analyze cloud solutions"
+  },
+  {
+    "job_id":286,
+    "title":"IT Governance Manager",
+    "description":"Manage IT governance"
+  },
+  {
+    "job_id":287,
+    "title":"Software Developer",
+    "description":"Develop software"
+  },
+  {
+    "job_id":288,
+    "title":"IT Support Specialist",
+    "description":"Provide IT support"
+  },
+  {
+    "job_id":289,
+    "title":"DevOps Engineer",
+    "description":"Streamline devops"
+  },
+  {
+    "job_id":290,
+    "title":"Database Administrator",
+    "description":"Manage databases"
+  },
+  {
+    "job_id":291,
+    "title":"UX Designer",
+    "description":"Design user experiences"
+  },
+  {
+    "job_id":292,
+    "title":"IT Consultant",
+    "description":"Provide IT consultancy"
+  },
+  {
+    "job_id":293,
+    "title":"Software Tester",
+    "description":"Test software"
+  },
+  {
+    "job_id":294,
+    "title":"IT Security Analyst",
+    "description":"Ensure IT security"
+  },
+  {
+    "job_id":295,
+    "title":"Data Engineer",
+    "description":"Build data pipelines"
+  },
+  {
+    "job_id":296,
+    "title":"Front-end Developer",
+    "description":"Develop web interfaces"
+  },
+  {
+    "job_id":297,
+    "title":"AI\/ML Engineer",
+    "description":"Develop AI models"
+  },
+  {
+    "job_id":298,
+    "title":"IT Auditor",
+    "description":"Audit IT systems"
+  },
+  {
+    "job_id":299,
+    "title":"IT Trainer",
+    "description":"Train IT professionals"
+  },
+  {
+    "job_id":300,
+    "title":"Cloud Security Engineer",
+    "description":"Secure cloud"
+  },
+  {
+    "job_id":301,
+    "title":"IT Procurement Specialist",
+    "description":"Procure IT resources"
+  },
+  {
+    "job_id":302,
+    "title":"UX Researcher",
+    "description":"Conduct UX research"
+  },
+  {
+    "job_id":303,
+    "title":"Blockchain Developer",
+    "description":"Develop blockchain"
+  },
+  {
+    "job_id":304,
+    "title":"IT Risk Analyst",
+    "description":"Analyze IT risks"
+  },
+  {
+    "job_id":305,
+    "title":"Cloud Support Engineer",
+    "description":"Support cloud"
+  },
+  {
+    "job_id":306,
+    "title":"IT Sales Manager",
+    "description":"Manage IT sales team"
+  },
+  {
+    "job_id":307,
+    "title":"Data Privacy Officer",
+    "description":"Ensure data privacy"
+  },
+  {
+    "job_id":308,
+    "title":"Software Architect",
+    "description":"Design software"
+  },
+  {
+    "job_id":309,
+    "title":"IT Quality Analyst",
+    "description":"Ensure software quality"
+  },
+  {
+    "job_id":310,
+    "title":"Mobile App Developer",
+    "description":"Develop mobile apps"
+  },
+  {
+    "job_id":311,
+    "title":"IT Procurement Manager",
+    "description":"Manage procurement"
+  },
+  {
+    "job_id":312,
+    "title":"IT Compliance Officer",
+    "description":"Ensure IT compliance"
+  },
+  {
+    "job_id":313,
+    "title":"Full-stack Developer",
+    "description":"Develop web applications"
+  },
+  {
+    "job_id":314,
+    "title":"IT Business Analyst",
+    "description":"Analyze IT needs"
+  },
+  {
+    "job_id":315,
+    "title":"IT Trainer",
+    "description":"Train IT professionals"
+  },
+  {
+    "job_id":316,
+    "title":"AI Ethics Consultant",
+    "description":"Ensure AI ethics"
+  },
+  {
+    "job_id":317,
+    "title":"IT Support Specialist",
+    "description":"Provide IT support"
+  },
+  {
+    "job_id":318,
+    "title":"Data Analytics Manager",
+    "description":"Manage data analytics"
+  },
+  {
+    "job_id":319,
+    "title":"IT Project Coordinator",
+    "description":"Coordinate IT projects"
+  },
+  {
+    "job_id":320,
+    "title":"Cloud Solutions Analyst",
+    "description":"Analyze cloud solutions"
+  },
+  {
+    "job_id":321,
+    "title":"IT Support Specialist",
+    "description":"Provide IT support"
+  },
+  {
+    "job_id":322,
+    "title":"Full-stack Developer",
+    "description":"Develop web applications"
+  },
+  {
+    "job_id":323,
+    "title":"Data Analyst",
+    "description":"Analyze data trends"
+  },
+  {
+    "job_id":324,
+    "title":"Network Engineer",
+    "description":"Manage network infrastructure"
+  },
+  {
+    "job_id":325,
+    "title":"Cloud Architect",
+    "description":"Design cloud solutions"
+  },
+  {
+    "job_id":326,
+    "title":"Cybersecurity Analyst",
+    "description":"Ensure IT security"
+  },
+  {
+    "job_id":327,
+    "title":"IT Project Manager",
+    "description":"Manage IT projects"
+  },
+  {
+    "job_id":328,
+    "title":"Data Scientist",
+    "description":"Analyze big data"
+  },
+  {
+    "job_id":329,
+    "title":"Cloud Solutions Analyst",
+    "description":"Analyze cloud solutions"
+  },
+  {
+    "job_id":330,
+    "title":"IT Governance Manager",
+    "description":"Manage IT governance"
+  },
+  {
+    "job_id":331,
+    "title":"Software Developer",
+    "description":"Develop software"
+  },
+  {
+    "job_id":332,
+    "title":"IT Support Specialist",
+    "description":"Provide IT support"
+  },
+  {
+    "job_id":333,
+    "title":"DevOps Engineer",
+    "description":"Streamline devops"
+  },
+  {
+    "job_id":334,
+    "title":"Database Administrator",
+    "description":"Manage databases"
+  },
+  {
+    "job_id":335,
+    "title":"UX Designer",
+    "description":"Design user experiences"
+  },
+  {
+    "job_id":336,
+    "title":"IT Consultant",
+    "description":"Provide IT consultancy"
+  },
+  {
+    "job_id":337,
+    "title":"Software Tester",
+    "description":"Test software"
+  },
+  {
+    "job_id":338,
+    "title":"IT Security Analyst",
+    "description":"Ensure IT security"
+  },
+  {
+    "job_id":339,
+    "title":"Data Engineer",
+    "description":"Build data pipelines"
+  },
+  {
+    "job_id":340,
+    "title":"Front-end Developer",
+    "description":"Develop web interfaces"
+  },
+  {
+    "job_id":341,
+    "title":"AI\/ML Engineer",
+    "description":"Develop AI models"
+  },
+  {
+    "job_id":342,
+    "title":"IT Auditor",
+    "description":"Audit IT systems"
+  },
+  {
+    "job_id":343,
+    "title":"IT Trainer",
+    "description":"Train IT professionals"
+  },
+  {
+    "job_id":344,
+    "title":"Cloud Security Engineer",
+    "description":"Secure cloud"
+  },
+  {
+    "job_id":345,
+    "title":"IT Procurement Specialist",
+    "description":"Procure IT resources"
+  },
+  {
+    "job_id":346,
+    "title":"UX Researcher",
+    "description":"Conduct UX research"
+  },
+  {
+    "job_id":347,
+    "title":"Blockchain Developer",
+    "description":"Develop blockchain"
+  },
+  {
+    "job_id":348,
+    "title":"IT Risk Analyst",
+    "description":"Analyze IT risks"
+  },
+  {
+    "job_id":349,
+    "title":"Cloud Support Engineer",
+    "description":"Support cloud"
+  },
+  {
+    "job_id":350,
+    "title":"IT Sales Manager",
+    "description":"Manage IT sales team"
+  },
+  {
+    "job_id":351,
+    "title":"Data Privacy Officer",
+    "description":"Ensure data privacy"
+  },
+  {
+    "job_id":352,
+    "title":"Software Architect",
+    "description":"Design software"
+  },
+  {
+    "job_id":353,
+    "title":"IT Quality Analyst",
+    "description":"Ensure software quality"
+  },
+  {
+    "job_id":354,
+    "title":"Mobile App Developer",
+    "description":"Develop mobile apps"
+  },
+  {
+    "job_id":355,
+    "title":"IT Procurement Manager",
+    "description":"Manage procurement"
+  },
+  {
+    "job_id":356,
+    "title":"IT Compliance Officer",
+    "description":"Ensure IT compliance"
+  },
+  {
+    "job_id":357,
+    "title":"Full-stack Developer",
+    "description":"Develop web applications"
+  },
+  {
+    "job_id":358,
+    "title":"IT Business Analyst",
+    "description":"Analyze IT needs"
+  },
+  {
+    "job_id":359,
+    "title":"IT Trainer",
+    "description":"Train IT professionals"
+  },
+  {
+    "job_id":360,
+    "title":"AI Ethics Consultant",
+    "description":"Ensure AI ethics"
+  },
+  {
+    "job_id":361,
+    "title":"IT Support Specialist",
+    "description":"Provide IT support"
+  },
+  {
+    "job_id":362,
+    "title":"Data Analytics Manager",
+    "description":"Manage data analytics"
+  },
+  {
+    "job_id":363,
+    "title":"IT Project Coordinator",
+    "description":"Coordinate IT projects"
+  },
+  {
+    "job_id":364,
+    "title":"Cloud Solutions Analyst",
+    "description":"Analyze cloud solutions"
+  }
+]

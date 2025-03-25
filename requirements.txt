@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pymupdf
+sentence-transformers
+numpy
+scikit-learn
+openai
+httpx 
+python-dotenv
+streamlit
+fitz
