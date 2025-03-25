@@ -30,5 +30,3 @@ An end-to-end AI-powered tool that analyzes resumes, matches them with relevant 
 
 <img src="pic1.png" width="600"/>
 <img src="pic2.png" width="600"/>
-<img src="pic3.png" width="600"/>
-<img src="pic4.png" width="600"/>
